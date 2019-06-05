@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/selection_screen.unity
+    guid: d711b45bd7d707a46a4e30d2e064c466
+  - enabled: 1
+    path: Assets/first_scene.unity
+    guid: 21660b90a35736e4fa9aa32baf388a83
+  - enabled: 1
+    path: Assets/airport_scene.unity
+    guid: c1d7846ebd378ce429f79a1ac6c155f0
+  - enabled: 1
+    path: Assets/desert_scene.unity
+    guid: e6d8a31fd22d249488e8359e8dd8e00d
+  - enabled: 1
+    path: Assets/outer_space.unity
+    guid: 918c97545ff624ff1b56fc5c670d5321
+  - enabled: 1
+    path: Assets/help.unity
+    guid: 63bd356f55f548244b6cb8e65b9e9001
+  - enabled: 1
+    path: Assets/start_screen.unity
+    guid: 58711bb8aa6eef147abce1f761b5154c
+  - enabled: 1
+    path: Assets/controls.unity
+    guid: 9ba79b3b832991b4293aaa91aace2da1
+  m_configObjects: {}
